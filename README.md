@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Vicke413/Leetcode_Problems/tree/master/1137-height-checker) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Vicke413/Leetcode_Problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 # Hash Table
 |  |
