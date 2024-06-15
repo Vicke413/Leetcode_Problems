@@ -19,7 +19,10 @@ int start=0;
 int total_profit=w;
 for(int i=0;i<k;i++)
 {
-
+// we ll loop for k times
+// for each kth time , 
+//we ll finding the best profit among all 
+//and adding into our profit with the help of priority queue
 
 while(start<n && vp[start].first<= total_profit)
 {
