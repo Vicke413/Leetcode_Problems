@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 # Math
 |  |
 | ------- |
@@ -86,7 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 # Matrix
 |  |
 | ------- |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
+# Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
