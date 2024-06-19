@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1241-decompress-run-length-encoded-list](https://github.com/Vicke413/Leetcode_Problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
 | ------- |
@@ -112,3 +113,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
