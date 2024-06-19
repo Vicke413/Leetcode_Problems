@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vicke413/Leetcode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Vicke413/Leetcode_Problems/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Vicke413/Leetcode_Problems/tree/master/1241-decompress-run-length-encoded-list) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 # Graph
 |  |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 # Shortest Path
 |  |
