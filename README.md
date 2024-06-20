@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vicke413/Leetcode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Vicke413/Leetcode_Problems/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vicke413/Leetcode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vicke413/Leetcode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Depth-First Search
 |  |
 | ------- |
