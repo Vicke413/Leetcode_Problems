@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0502-ipo](https://github.com/Vicke413/Leetcode_Problems/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 # Graph
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 # Shortest Path
@@ -114,3 +117,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+# Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
