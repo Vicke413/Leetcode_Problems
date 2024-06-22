@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1138-grumpy-bookstore-owner](https://github.com/Vicke413/Leetcode_Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Vicke413/Leetcode_Problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vicke413/Leetcode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vicke413/Leetcode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 # Sorting
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -133,3 +136,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Vicke413/Leetcode_Problems/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
