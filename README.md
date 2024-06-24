@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vicke413/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0502-ipo](https://github.com/Vicke413/Leetcode_Problems/tree/master/0502-ipo) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Vicke413/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
