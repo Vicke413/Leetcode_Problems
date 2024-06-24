@@ -1,27 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        
-
-        // if it reads a neg  not palindrome
-        if(x<0)
-        return false;
-
-        string temp="";
-        temp+=to_string(x);
-        int n=temp.size();
-        int l=0;
-        int r=n-1;
-
-       // just  by using two pointers
-        while(l<r)
-        {
-            if(temp[l]!=temp[r])
+        if (x < 0) {
             return false;
-            l++;
-            r--;
         }
-        return true;
 
+        long long reversed = 0;
+        long long temp = x;
+
+        while (temp != 0) {
+            int digit = temp % 10;
+            reversed = reversed * 10 + digit;
+            temp /= 10;
+        }
+
+        return (reversed == x);
     }
 };
