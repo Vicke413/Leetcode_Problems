@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # Array
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vicke413/Leetcode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Vicke413/Leetcode_Problems/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Vicke413/Leetcode_Problems/tree/master/1138-grumpy-bookstore-owner) |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -139,5 +142,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Vicke413/Leetcode_Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
