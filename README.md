@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vicke413/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
