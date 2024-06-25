@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Union Find
 |  |
 | ------- |
@@ -164,3 +165,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
