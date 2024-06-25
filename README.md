@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vicke413/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -157,4 +158,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Vicke413/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0002-add-two-numbers) |
