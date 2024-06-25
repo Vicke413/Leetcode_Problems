@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Vicke413/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vicke413/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
@@ -152,3 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vicke413/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vicke413/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
