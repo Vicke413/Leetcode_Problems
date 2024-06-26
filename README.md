@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vicke413/Leetcode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1252-break-a-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1252-break-a-palindrome) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 # Bit Manipulation
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Union Find
 |  |
 | ------- |
@@ -169,11 +172,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
