@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vicke413/Leetcode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1252-break-a-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vicke413/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 # Bit Manipulation
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/Vicke413/Leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vicke413/Leetcode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vicke413/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vicke413/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Matrix
 |  |
 | ------- |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Vicke413/Leetcode_Problems/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vicke413/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
