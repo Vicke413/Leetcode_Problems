@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0125-valid-palindrome) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vicke413/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Vicke413/Leetcode_Problems/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Vicke413/Leetcode_Problems/tree/master/0876-hand-of-straights) |
