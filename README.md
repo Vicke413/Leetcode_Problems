@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/Vicke413/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vicke413/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vicke413/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1044-find-common-characters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1044-find-common-characters) |
 | [1252-break-a-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1252-break-a-palindrome) |
