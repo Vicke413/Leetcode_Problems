@@ -116,11 +116,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Vicke413/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [1036-rotting-oranges](https://github.com/Vicke413/Leetcode_Problems/tree/master/1036-rotting-oranges) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 # Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Vicke413/Leetcode_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Vicke413/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Union Find
 |  |
 | ------- |
@@ -194,3 +197,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
