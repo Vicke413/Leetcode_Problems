@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 ## Sliding Window
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vicke413/Leetcode_Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
