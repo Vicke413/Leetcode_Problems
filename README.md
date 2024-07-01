@@ -217,11 +217,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -252,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vicke413/Leetcode_Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
