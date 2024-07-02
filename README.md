@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 ## Breadth-First Search
