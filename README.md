@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vicke413/Leetcode_Problems/tree/master/0290-word-pattern) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
@@ -284,10 +287,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
