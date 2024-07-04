@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vicke413/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vicke413/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
@@ -310,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vicke413/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vicke413/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
