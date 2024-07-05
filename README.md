@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -354,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
