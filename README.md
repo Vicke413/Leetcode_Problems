@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Vicke413/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vicke413/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 ## Memoization
 |  |
