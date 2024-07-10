@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vicke413/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 ## Counting
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Vicke413/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
@@ -384,4 +386,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
