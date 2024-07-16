@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
