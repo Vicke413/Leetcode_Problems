@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Vicke413/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
