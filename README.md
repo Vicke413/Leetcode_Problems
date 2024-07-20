@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Vicke413/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Vicke413/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 ## String
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
@@ -428,4 +430,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vicke413/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
