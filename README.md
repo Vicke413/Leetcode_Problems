@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Vicke413/Leetcode_Problems/tree/master/0036-valid-sudoku) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vicke413/Leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vicke413/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
