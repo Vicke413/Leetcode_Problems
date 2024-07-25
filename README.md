@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vicke413/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Vicke413/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Vicke413/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [1642-water-bottles](https://github.com/Vicke413/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicke413/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Vicke413/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vicke413/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
@@ -502,4 +504,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vicke413/Leetcode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
