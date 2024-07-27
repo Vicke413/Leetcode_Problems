@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vicke413/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Vicke413/Leetcode_Problems/tree/master/0338-counting-bits) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vicke413/Leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
