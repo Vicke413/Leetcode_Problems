@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vicke413/Leetcode_Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Trie
 |  |
 | ------- |
@@ -523,5 +525,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
