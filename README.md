@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vicke413/Leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vicke413/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Topological Sort
@@ -527,4 +530,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
