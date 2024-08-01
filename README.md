@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vicke413/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Vicke413/Leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Vicke413/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Counting
 |  |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Vicke413/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
