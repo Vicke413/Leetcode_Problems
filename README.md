@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/Vicke413/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
+| [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Vicke413/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Vicke413/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Vicke413/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Vicke413/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
+| [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Vicke413/Leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Vicke413/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
