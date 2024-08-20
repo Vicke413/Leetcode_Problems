@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Vicke413/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Vicke413/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Vicke413/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Vicke413/Leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
 | [1196-filling-bookcase-shelves](https://github.com/Vicke413/Leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Vicke413/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vicke413/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Topological Sort
 |  |
@@ -599,4 +603,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
