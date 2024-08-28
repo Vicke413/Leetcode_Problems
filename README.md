@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Vicke413/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0871-keys-and-rooms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Vicke413/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vicke413/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
+| [0871-keys-and-rooms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vicke413/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
