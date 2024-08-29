@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vicke413/Leetcode_Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
 | ------- |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vicke413/Leetcode_Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Trie
 |  |
 | ------- |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Vicke413/Leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vicke413/Leetcode_Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
