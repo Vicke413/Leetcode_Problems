@@ -19,15 +19,14 @@ public:
             q.pop();
             double proba = top.first;
             int node = top.second;
-            if(!seen[node]) {
-                seen[node]++;
+          
                 for(auto &to: g[node]) {
                     if (mx[to.first] < to.second*proba) {
                         mx[to.first] = to.second*proba;
 						q.push({mx[to.first], to.first});
                     }
                 }
-            }
+            
         }
         return mx[end];
     }
