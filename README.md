@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-make-array-strictly-increasing](https://github.com/Vicke413/Leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/Vicke413/Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Vicke413/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Vicke413/Leetcode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/Vicke413/Leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/Vicke413/Leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vicke413/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
