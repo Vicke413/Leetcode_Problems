@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0664-strange-printer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0664-strange-printer) |
+| [0688-knight-probability-in-chessboard](https://github.com/Vicke413/Leetcode_Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vicke413/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
