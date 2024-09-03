@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vicke413/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Vicke413/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vicke413/Leetcode_Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vicke413/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vicke413/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Breadth-First Search
 |  |
 | ------- |
