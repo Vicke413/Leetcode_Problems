@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Vicke413/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/Vicke413/Leetcode_Problems/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Vicke413/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Vicke413/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
+| [2155-find-missing-observations](https://github.com/Vicke413/Leetcode_Problems/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vicke413/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Vicke413/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vicke413/Leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/Vicke413/Leetcode_Problems/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vicke413/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Vicke413/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2846-robot-collisions) |
