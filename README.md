@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Vicke413/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vicke413/Leetcode_Problems/tree/master/0922-possible-bipartition) |
+| [1484-linked-list-in-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Vicke413/Leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vicke413/Leetcode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vicke413/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vicke413/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vicke413/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vicke413/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Vicke413/Leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-possible-bipartition](https://github.com/Vicke413/Leetcode_Problems/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Vicke413/Leetcode_Problems/tree/master/1300-critical-connections-in-a-network) |
+| [1484-linked-list-in-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vicke413/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Vicke413/Leetcode_Problems/tree/master/2035-count-sub-islands) |
@@ -566,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vicke413/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vicke413/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/Vicke413/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vicke413/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Vicke413/Leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
