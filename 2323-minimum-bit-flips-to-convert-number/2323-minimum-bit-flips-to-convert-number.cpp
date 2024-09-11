@@ -11,6 +11,8 @@ public:
         if(xo & (1<<i))
         c++;
     }
+
+    
         return c;
 
 
