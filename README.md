@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vicke413/Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Vicke413/Leetcode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vicke413/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Vicke413/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vicke413/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Vicke413/Leetcode_Problems/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vicke413/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Topological Sort
 |  |
