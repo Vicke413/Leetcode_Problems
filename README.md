@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vicke413/Leetcode_Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vicke413/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Vicke413/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Vicke413/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vicke413/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Topological Sort
 |  |
