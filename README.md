@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vicke413/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vicke413/Leetcode_Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0664-strange-printer) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Vicke413/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Vicke413/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vicke413/Leetcode_Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/Vicke413/Leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
