@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vicke413/Leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vicke413/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Vicke413/Leetcode_Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Vicke413/Leetcode_Problems/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Vicke413/Leetcode_Problems/tree/master/0726-number-of-atoms) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vicke413/Leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Vicke413/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vicke413/Leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
