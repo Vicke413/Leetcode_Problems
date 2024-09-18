@@ -718,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Vicke413/Leetcode_Problems/tree/master/0077-combinations) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vicke413/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Vicke413/Leetcode_Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Game Theory
