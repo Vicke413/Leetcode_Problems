@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Vicke413/Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vicke413/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Vicke413/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Vicke413/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vicke413/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
@@ -624,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vicke413/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vicke413/Leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vicke413/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
