@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vicke413/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vicke413/Leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Vicke413/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Vicke413/Leetcode_Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vicke413/Leetcode_Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1803-average-waiting-time](https://github.com/Vicke413/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vicke413/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Vicke413/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vicke413/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Vicke413/Leetcode_Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Vicke413/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vicke413/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Vicke413/Leetcode_Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Game Theory
 |  |
 | ------- |
@@ -725,4 +728,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Vicke413/Leetcode_Problems/tree/master/1300-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Vicke413/Leetcode_Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
