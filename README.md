@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vicke413/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Vicke413/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vicke413/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
@@ -683,10 +684,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Combinatorics
 |  |
@@ -747,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Vicke413/Leetcode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
