@@ -27,10 +27,12 @@ j++;
 }
 if(j==nn)
 {
+    // updated freq arr
 solve(freq,words,scc,i+1,score,ans1+sc);
 }
 
 // not take
+// backtrack not update fre ARR , up
     solve(te,words,scc,i+1,score,ans1);
 
 }
