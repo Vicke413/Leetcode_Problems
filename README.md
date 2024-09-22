@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Vicke413/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Vicke413/Leetcode_Problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vicke413/Leetcode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
