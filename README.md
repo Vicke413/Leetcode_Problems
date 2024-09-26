@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Vicke413/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/Vicke413/Leetcode_Problems/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Vicke413/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Vicke413/Leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Vicke413/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vicke413/Leetcode_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [1290-make-array-strictly-increasing](https://github.com/Vicke413/Leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 ## Dynamic Programming
 |  |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vicke413/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0729-my-calendar-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vicke413/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Indexed Tree
 |  |
@@ -766,4 +769,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vicke413/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vicke413/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
