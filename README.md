@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vicke413/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vicke413/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vicke413/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Vicke413/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vicke413/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vicke413/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Array
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vicke413/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vicke413/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Vicke413/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Vicke413/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2846-robot-collisions) |
@@ -457,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Vicke413/Leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vicke413/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Vicke413/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vicke413/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Vicke413/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vicke413/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
